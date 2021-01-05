@@ -30,7 +30,7 @@
     "command-exists": "^1.2.9"
   },
   "devDependencies": {
-    "@pocket-studios/eslint-config": "2.1.3",
+    "@pocket-studios/eslint-config": "2.1.5",
     "@pocket-studios/prettier-config": "1.0.0",
     "@types/command-exists": "1.2.0",
     "@types/jest": "26.0.13",

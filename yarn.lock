@@ -516,10 +516,10 @@
     "@nodelib/fs.scandir" "2.1.3"
     fastq "^1.6.0"
 
-"@pocket-studios/eslint-config@2.1.3":
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/@pocket-studios/eslint-config/-/eslint-config-2.1.3.tgz#507364aec32cc379d050252dd74a3c7908378575"
-  integrity sha512-sOevXH2DFqaQ4jxuREJBNFarnr7xEDGdZmmTJdQrKDTnQcJLIyhQlfQkR2BmDQ3AsyxkcqVVpqFQric80nwHig==
+"@pocket-studios/eslint-config@2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@pocket-studios/eslint-config/-/eslint-config-2.1.5.tgz#acdef467091fc2cf67db5b9195a6d217d113177d"
+  integrity sha512-5BTfZz3YRtlPvzGf/ocO5u0HPSYSkBKmG5cdtwLbG4qRZY4qMVXAxe9qH2UI/0oagPWFtQdyE5WdHERiKTPEHw==
   dependencies:
     "@typescript-eslint/eslint-plugin" "3.10.1"
     "@typescript-eslint/parser" "3.10.1"
